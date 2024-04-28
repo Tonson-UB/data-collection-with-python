@@ -7,8 +7,6 @@ import requests
 import pandas as pd
 import pymysql.cursors
 
-
-
 # Config DB credential
 class Config:
     MYSQL_HOST = "ใส่ข้อมูล host"
