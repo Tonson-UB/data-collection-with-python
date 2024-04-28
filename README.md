@@ -1,5 +1,5 @@
 # Demo Workshop Data Collection
-This workshop collects data from MySQL database and REST API with python
+This workshop collects data from MySQL database and REST API with python.
 
 ## Step to run (MySQL database)
 1. Install PyMySQL
