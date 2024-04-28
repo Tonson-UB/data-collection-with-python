@@ -29,6 +29,6 @@ This workshop collects data from MySQL database and REST API with python.
 ```
 - Use Package requests to call REST API.
 ```bash
-# PyMySQL
+# requests
 pip install requests
 ```
